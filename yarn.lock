@@ -3347,7 +3347,7 @@
     "@prismicio/helpers" "^2.3.0"
     "@prismicio/types" "^0.1.27"
 
-"@prismicio/helpers@^2.3.0", "@prismicio/helpers@^2.3.1":
+"@prismicio/helpers@^2.3.0":
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/@prismicio/helpers/-/helpers-2.3.1.tgz#e6d36a95ca9b0c1340322e6ae1830fc072f02742"
   integrity sha512-J37WpIUINZ0wT3a2h4fc9ATZqjmQjziPwjETG7QLYEVULpQXsWbgM+C6aoOqdlRwCbZ3Wfhel26+++ZaqOX/0Q==
@@ -3357,13 +3357,12 @@
     escape-html "^1.0.3"
     imgix-url-builder "^0.0.3"
 
-"@prismicio/react@^2.2.0":
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/@prismicio/react/-/react-2.4.2.tgz#581a16f1b682e530fe99a7caad3f47353bd527b8"
-  integrity sha512-KyCZBdJosE93S7sl+Z//eDdbT7vYNGNZ60rOs1VETbDXJtJhh7ymSZul5cvb8MrSrH8yn9DiR4rGVVXLobnHSA==
+"@prismicio/react@^2.8.0":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@prismicio/react/-/react-2.8.0.tgz#4c87794e17207bf440822c24abbbba486b07b6e3"
+  integrity sha512-nMTX4yM2eaa78Ck51oAMADZs2kN3VE/YDfGV+t1pImJI5arPMg65z+JhyU8GqPVLn5TLr2oS+QLFR9p4X9T5Gw==
   dependencies:
-    "@prismicio/helpers" "^2.3.1"
-    "@prismicio/richtext" "^2.0.1"
+    "@prismicio/richtext" "^2.1.5"
 
 "@prismicio/richtext@^2.0.1":
   version "2.1.0"
@@ -3372,10 +3371,22 @@
   dependencies:
     "@prismicio/types" "^0.1.22"
 
+"@prismicio/richtext@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@prismicio/richtext/-/richtext-2.1.5.tgz#8a433939765bead2a521150fb15af0b49c6af421"
+  integrity sha512-Sf6iCsciPmfK3uQeFmeY9RTRSuhrCVzyU39OkiJ1VJn8O0531pKapGoWS+5WGxouJtE5+jGqV8L+L2mKP7NkXQ==
+  dependencies:
+    "@prismicio/types" "^0.2.7"
+
 "@prismicio/types@^0.1.22", "@prismicio/types@^0.1.27":
   version "0.1.29"
   resolved "https://registry.yarnpkg.com/@prismicio/types/-/types-0.1.29.tgz#52914a5ba304c8b75fdcf398e5014ac4364fdffb"
   integrity sha512-wp7DHqMK0FDMcFQfJbqTAzWNBkM6/rRq71jMw6x9m07nWCUqytJQQKg6/15uduIeSqPXmyfJW21drsmChGaxsQ==
+
+"@prismicio/types@^0.2.7":
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/@prismicio/types/-/types-0.2.9.tgz#9846b8830b52256b3090b2221a8240ba415b1b9f"
+  integrity sha512-1uhHnZTiGeCi+rmO507B8jtnUTCNetdgrC5sfZEw9zsCplfgBELt0+BN1RFsXWLbZbyvR9xzHcrJ87Ykqa8JZA==
 
 "@redocly/ajv@^8.11.0":
   version "8.11.0"
