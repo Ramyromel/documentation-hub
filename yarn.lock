@@ -2897,28 +2897,6 @@
     tslib "^2.6.0"
     utility-types "^3.10.0"
 
-"@docusaurus/theme-search-algolia@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/theme-search-algolia/-/theme-search-algolia-3.0.0.tgz#20701c2e7945a236df401365271b511a24ff3cad"
-  integrity sha512-PyMUNIS9yu0dx7XffB13ti4TG47pJq3G2KE/INvOFb6M0kWh+wwCnucPg4WAOysHOPh+SD9fjlXILoLQstgEIA==
-  dependencies:
-    "@docsearch/react" "^3.5.2"
-    "@docusaurus/core" "3.0.0"
-    "@docusaurus/logger" "3.0.0"
-    "@docusaurus/plugin-content-docs" "3.0.0"
-    "@docusaurus/theme-common" "3.0.0"
-    "@docusaurus/theme-translations" "3.0.0"
-    "@docusaurus/utils" "3.0.0"
-    "@docusaurus/utils-validation" "3.0.0"
-    algoliasearch "^4.18.0"
-    algoliasearch-helper "^3.13.3"
-    clsx "^1.2.1"
-    eta "^2.2.0"
-    fs-extra "^11.1.1"
-    lodash "^4.17.21"
-    tslib "^2.6.0"
-    utility-types "^3.10.0"
-
 "@docusaurus/theme-search-algolia@3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/theme-search-algolia/-/theme-search-algolia-3.6.0.tgz#47dcfca68f50163abce411dd9b181855a9ec9c83"
