@@ -57,7 +57,7 @@
     "modern-normalize": "^1.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "redocusaurus": "^2.0.2",
+    "redocusaurus": "^2.2.3",
     "rehype-katex": "6.0.3",
     "remark-html": "^13.0.1",
     "remark-math": "3",
