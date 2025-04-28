@@ -2543,29 +2543,6 @@
     lodash "^4.17.21"
     tslib "^2.6.0"
 
-"@docusaurus/plugin-content-blog@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-3.0.0.tgz#5f3ede003b2b7103043918fbe3f436c116839ca8"
-  integrity sha512-iA8Wc3tIzVnROJxrbIsU/iSfixHW16YeW9RWsBw7hgEk4dyGsip9AsvEDXobnRq3lVv4mfdgoS545iGWf1Ip9w==
-  dependencies:
-    "@docusaurus/core" "3.0.0"
-    "@docusaurus/logger" "3.0.0"
-    "@docusaurus/mdx-loader" "3.0.0"
-    "@docusaurus/types" "3.0.0"
-    "@docusaurus/utils" "3.0.0"
-    "@docusaurus/utils-common" "3.0.0"
-    "@docusaurus/utils-validation" "3.0.0"
-    cheerio "^1.0.0-rc.12"
-    feed "^4.2.2"
-    fs-extra "^11.1.1"
-    lodash "^4.17.21"
-    reading-time "^1.5.0"
-    srcset "^4.0.0"
-    tslib "^2.6.0"
-    unist-util-visit "^5.0.0"
-    utility-types "^3.10.0"
-    webpack "^5.88.1"
-
 "@docusaurus/plugin-content-blog@3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-3.6.0.tgz#9128175b4c3ce885d9090183d74c60813844ea8d"
@@ -2738,21 +2715,6 @@
     "@docusaurus/utils-validation" "3.6.0"
     tslib "^2.6.0"
 
-"@docusaurus/plugin-sitemap@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-sitemap/-/plugin-sitemap-3.0.0.tgz#91f300e500d476252ea2f40449ee828766b9b9d6"
-  integrity sha512-cfcONdWku56Oi7Hdus2uvUw/RKRRlIGMViiHLjvQ21CEsEqnQ297MRoIgjU28kL7/CXD/+OiANSq3T1ezAiMhA==
-  dependencies:
-    "@docusaurus/core" "3.0.0"
-    "@docusaurus/logger" "3.0.0"
-    "@docusaurus/types" "3.0.0"
-    "@docusaurus/utils" "3.0.0"
-    "@docusaurus/utils-common" "3.0.0"
-    "@docusaurus/utils-validation" "3.0.0"
-    fs-extra "^11.1.1"
-    sitemap "^7.1.1"
-    tslib "^2.6.0"
-
 "@docusaurus/plugin-sitemap@3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-sitemap/-/plugin-sitemap-3.6.0.tgz#c7c93f75f03391ca9071da48563fc4faa84966bc"
@@ -2795,37 +2757,6 @@
     "@types/react" "*"
     prop-types "^15.6.2"
 
-"@docusaurus/theme-classic@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/theme-classic/-/theme-classic-3.0.0.tgz#a47eda40747e1a6f79190e6bb786d3a7fc4e06b2"
-  integrity sha512-wWOHSrKMn7L4jTtXBsb5iEJ3xvTddBye5PjYBnWiCkTAlhle2yMdc4/qRXW35Ot+OV/VXu6YFG8XVUJEl99z0A==
-  dependencies:
-    "@docusaurus/core" "3.0.0"
-    "@docusaurus/mdx-loader" "3.0.0"
-    "@docusaurus/module-type-aliases" "3.0.0"
-    "@docusaurus/plugin-content-blog" "3.0.0"
-    "@docusaurus/plugin-content-docs" "3.0.0"
-    "@docusaurus/plugin-content-pages" "3.0.0"
-    "@docusaurus/theme-common" "3.0.0"
-    "@docusaurus/theme-translations" "3.0.0"
-    "@docusaurus/types" "3.0.0"
-    "@docusaurus/utils" "3.0.0"
-    "@docusaurus/utils-common" "3.0.0"
-    "@docusaurus/utils-validation" "3.0.0"
-    "@mdx-js/react" "^3.0.0"
-    clsx "^1.2.1"
-    copy-text-to-clipboard "^3.2.0"
-    infima "0.2.0-alpha.43"
-    lodash "^4.17.21"
-    nprogress "^0.2.0"
-    postcss "^8.4.26"
-    prism-react-renderer "^2.1.0"
-    prismjs "^1.29.0"
-    react-router-dom "^5.3.4"
-    rtlcss "^4.1.0"
-    tslib "^2.6.0"
-    utility-types "^3.10.0"
-
 "@docusaurus/theme-classic@3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/theme-classic/-/theme-classic-3.6.0.tgz#8f34b65c85f5082deb3633a893974d2eee309121"
@@ -2855,27 +2786,6 @@
     prismjs "^1.29.0"
     react-router-dom "^5.3.4"
     rtlcss "^4.1.0"
-    tslib "^2.6.0"
-    utility-types "^3.10.0"
-
-"@docusaurus/theme-common@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/theme-common/-/theme-common-3.0.0.tgz#6dc8c39a7458dd39f95a2fa6eb1c6aaf32b7e103"
-  integrity sha512-PahRpCLRK5owCMEqcNtUeTMOkTUCzrJlKA+HLu7f+8osYOni617YurXvHASCsSTxurjXaLz/RqZMnASnqATxIA==
-  dependencies:
-    "@docusaurus/mdx-loader" "3.0.0"
-    "@docusaurus/module-type-aliases" "3.0.0"
-    "@docusaurus/plugin-content-blog" "3.0.0"
-    "@docusaurus/plugin-content-docs" "3.0.0"
-    "@docusaurus/plugin-content-pages" "3.0.0"
-    "@docusaurus/utils" "3.0.0"
-    "@docusaurus/utils-common" "3.0.0"
-    "@types/history" "^4.7.11"
-    "@types/react" "*"
-    "@types/react-router-config" "*"
-    clsx "^1.2.1"
-    parse-numeric-range "^1.3.0"
-    prism-react-renderer "^2.1.0"
     tslib "^2.6.0"
     utility-types "^3.10.0"
 
@@ -2918,14 +2828,6 @@
     lodash "^4.17.21"
     tslib "^2.6.0"
     utility-types "^3.10.0"
-
-"@docusaurus/theme-translations@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/theme-translations/-/theme-translations-3.0.0.tgz#98590b80589f15b2064e0daa2acc3a82d126f53b"
-  integrity sha512-p/H3+5LdnDtbMU+csYukA6601U1ld2v9knqxGEEV96qV27HsHfP63J9Ta2RBZUrNhQAgrwFzIc9GdDO8P1Baag==
-  dependencies:
-    fs-extra "^11.1.1"
-    tslib "^2.6.0"
 
 "@docusaurus/theme-translations@3.6.0":
   version "3.6.0"
@@ -5138,7 +5040,7 @@ cheerio-select@^2.1.0:
     domhandler "^5.0.3"
     domutils "^3.0.1"
 
-cheerio@1.0.0-rc.12, cheerio@^1.0.0-rc.12:
+cheerio@1.0.0-rc.12:
   version "1.0.0-rc.12"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-1.0.0-rc.12.tgz#788bf7466506b1c6bf5fae51d24a2c4d62e47683"
   integrity sha512-VqR8m68vM46BNnuZ5NtnGBKIE/DfN0cRIzg9n40EIq9NOv90ayxLBXA8fXC5gquFRGJSTRqBq25Jt2ECLR431Q==
@@ -7855,11 +7757,6 @@ indent-string@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/indent-string/-/indent-string-4.0.0.tgz#624f8f4497d619b2d9768531d58f4122854d7251"
   integrity sha512-EdDDZu4A2OyIK7Lr/2zG+w5jmbuk1DVBnEwREQvBzspBJkCEbRa8GxU1lghYcaGJCnRWibjDXlq779X1/y5xwg==
-
-infima@0.2.0-alpha.43:
-  version "0.2.0-alpha.43"
-  resolved "https://registry.yarnpkg.com/infima/-/infima-0.2.0-alpha.43.tgz#f7aa1d7b30b6c08afef441c726bac6150228cbe0"
-  integrity sha512-2uw57LvUqW0rK/SWYnd/2rRfxNA5DDNOh33jxF7fy46VWoNhGxiUQyVZHbBMjQ33mQem0cjdDVwgWVAmlRfgyQ==
 
 infima@0.2.0-alpha.45:
   version "0.2.0-alpha.45"
@@ -10854,14 +10751,6 @@ pretty-time@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pretty-time/-/pretty-time-1.1.0.tgz#ffb7429afabb8535c346a34e41873adf3d74dd0e"
   integrity sha512-28iF6xPQrP8Oa6uxE6a1biz+lWeTOAPKggvjB8HAs6nVMKZwf5bG++632Dx614hIWgUPkgivRfG+a8uAXGTIbA==
-
-prism-react-renderer@^2.1.0:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-2.3.1.tgz#e59e5450052ede17488f6bc85de1553f584ff8d5"
-  integrity sha512-Rdf+HzBLR7KYjzpJ1rSoxT9ioO85nZngQEoFIhL07XhtJHlCU3SOz0GJ6+qvMyQe0Se+BV3qpe6Yd/NmQF5Juw==
-  dependencies:
-    "@types/prismjs" "^1.26.0"
-    clsx "^2.0.0"
 
 prism-react-renderer@^2.3.0:
   version "2.4.1"
