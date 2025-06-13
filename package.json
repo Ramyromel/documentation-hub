@@ -29,7 +29,7 @@
     ]
   },
   "dependencies": {
-    "@docusaurus/core": "0.0.0-4192",
+    "@docusaurus/core": "3.8.0",
     "@docusaurus/mdx-loader": "0.0.0-4192",
     "@docusaurus/plugin-client-redirects": "0.0.0-4192",
     "@docusaurus/plugin-content-docs": "0.0.0-4192",
@@ -38,7 +38,7 @@
     "@docusaurus/plugin-google-analytics": "0.0.0-4192",
     "@docusaurus/plugin-google-gtag": "0.0.0-4192",
     "@docusaurus/plugin-sitemap": "0.0.0-4192",
-    "@docusaurus/preset-classic": "0.0.0-4192",
+    "@docusaurus/preset-classic": "3.8.0",
     "@docusaurus/theme-classic": "0.0.0-4192",
     "@docusaurus/theme-search-algolia": "0.0.0-4192",
     "@ionic-internal/docusaurus-plugin-tag-manager": "^2.0.0",
@@ -57,7 +57,7 @@
     "modern-normalize": "^1.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "redocusaurus": "^1.1.2",
+    "redocusaurus": "^2.0.0",
     "rehype-katex": "5",
     "remark-html": "^13.0.1",
     "remark-math": "3",
